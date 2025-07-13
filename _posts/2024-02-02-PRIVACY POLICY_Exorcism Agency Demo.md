@@ -2,7 +2,7 @@
 layout:     post
 title:      PRIVACY POLICY
 subtitle:   Exorcism Agency Mini PRIVACY POLICY
-date:       2024-02-02
+date:       2025-07-13
 author:     Atombits
 header-img: img/post-bg-cook111.jpg
 catalog: true
@@ -33,29 +33,18 @@ For a better experience, while using our App, we may require you to provide us w
 Usage Data is collected automatically when using the App.
 
 
-Usage Data may include information such as Your Device’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our App that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+Usage Data may include information such as Your Device’s Oculus user ID, Your Avatar type, Your leadboard rank, the chanllenge you passed, the time and date of Your visit, the time spent on this app, unique device identifiers and other diagnostic data.
 
 
 When You access the App by or through Oculus Quest device, We may collect certain information automatically, including, but not limited to, the type of Oculus Quest device You use, Your culus Queste device unique ID,  unique device identifiers and other diagnostic data.
 
 
-We may also collect information that Your browser sends whenever You visit our App or when You access the App by or through a mobile device.The app does use third party Apps that may collect information used to identify you.Link to privacy policy of third party App providers used by the app.
-
+We may also collect information when You running this app.The app does use third party Apps that may collect information used to identify you.Link to privacy policy of third party App providers used by the app.
 
 * Unity
 * Oculus
 
-
 We want to inform you that whenever you use our App, in a case of an error in the app we collect data and information (through third party products) on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our App, the time and date of your use of the App, and other statistics.
-
-
-## Cookies
-
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
-
-
-This App does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their Apps. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this App.
 
 
 ## App Providers
@@ -66,9 +55,7 @@ We may employ third-party companies and individuals due to the following reasons
 * To perform App-related Apps;
 * To assist us in analyzing how our App is used.
 
-
 We want to inform users of this App that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
 
 
 ## Retention / Deletion of Data
