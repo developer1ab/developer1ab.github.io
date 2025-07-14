@@ -1,0 +1,89 @@
+---
+layout:     post
+title:      PRIVACY POLICY
+subtitle:   Exorcism Agency Mini PRIVACY POLICY
+date:       2025-07-13
+author:     Atombits
+header-img: img/post-bg-cook111.jpg
+catalog: true
+tags:
+    - Android
+---
+
+
+
+# PRIVACY POLICY
+
+Atombits Studio built the Exorcism Agency Mini app. This App is provided by Atombits Studio.
+
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our App.
+
+
+If you choose to use our App, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the App. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Exorcism Agency Mini unless otherwise defined in this Privacy Policy.
+
+## Information Collection and Use
+
+For a better experience, while using our App, we may require you to provide us with certain personally identifiable information, including but not limited to Usage Data. The information that we request will be retained by us and used as described in this privacy policy.
+
+
+Usage Data is collected automatically when using the App.
+
+
+Usage Data may include information such as Your Device’s Oculus user ID, Your Avatar type, Your leadboard rank, the chanllenge you passed, the time and date of Your visit, the time spent on this app, unique device identifiers and other diagnostic data.
+
+
+When You access the App by or through Oculus Quest device, We may collect certain information automatically, including, but not limited to, the type of Oculus Quest device You use, Your culus Queste device unique ID,  unique device identifiers and other diagnostic data.
+
+
+We may also collect information when You running this app.The app does use third party Apps that may collect information used to identify you.Link to privacy policy of third party App providers used by the app.
+
+* Unity
+* Oculus
+
+We want to inform you that whenever you use our App, in a case of an error in the app we collect data and information (through third party products) on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our App, the time and date of your use of the App, and other statistics.
+
+
+## App Providers
+We may employ third-party companies and individuals due to the following reasons:
+
+* To facilitate our App;
+* To provide the App on our behalf;
+* To perform App-related Apps;
+* To assist us in analyzing how our App is used.
+
+We want to inform users of this App that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+
+## Retention / Deletion of Data
+We will retain data only for as long as is necessary for the purposes set out in this Privacy Policy and to the extent necessary to successfully comply with any legal contracts or obligations. Futher, we will respond to all end user requests, as appropriate under applicable law. This includes the deletion of User Data when requested. If you wish to have your User Data deleted, you may email developer1@atombits.cn. Requests will be processed within 14 business days. Requests must include the end users information – such as username/Oculus name – so that data can be identified and deleted. Within 14 business days of we receiving notification that an end user no longer has an account, we will delete the user data.
+
+
+## Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.We aim to provide all users with the opportunity to access, update, and delete their data. You can do so by contacting us for assistance with the process. Our email is included at the end of the privacy policy.
+
+
+## Links to Other Sites
+
+This App may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or Apps.
+
+
+## Children’s Privacy
+These Apps do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+
+This policy is effective as of 2023-06-19
+
+
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at developer1@atombits.cn.This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator.
