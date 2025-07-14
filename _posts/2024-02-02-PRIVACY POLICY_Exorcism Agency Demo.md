@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      PRIVACY POLICY
-subtitle:   Exorcism Agency Mini PRIVACY POLICY
+subtitle:   Exorcism Agency Demo PRIVACY POLICY
 date:       2025-07-13
 author:     Atombits
 header-img: img/post-bg-cook111.jpg
